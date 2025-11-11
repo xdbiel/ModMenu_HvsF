@@ -1,0 +1,13 @@
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\imgui\imgui.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\imgui.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\imgui\imgui_draw.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\imgui_draw.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\imgui\imgui_impl_dx11.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\imgui_impl_dx11.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\imgui\imgui_impl_win32.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\imgui_impl_win32.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\imgui\imgui_tables.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\imgui_tables.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\imgui\imgui_widgets.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\imgui_widgets.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\minhook\buffer.c;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\buffer.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\minhook\hde32.c;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\hde32.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\minhook\hde64.c;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\hde64.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\minhook\hook.c;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\hook.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\libs\minhook\trampoline.c;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\trampoline.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\dllmain.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\dllmain.obj
+C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\pch.cpp;C:\Users\gab\Documents\Jogo plataforma\ModMenu1\ModMenu1\x64\Debug\pch.obj

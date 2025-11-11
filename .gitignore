@@ -1,0 +1,5 @@
+# Arquivos e pastas do Visual Studio
+.vs/
+*.vsix
+bin/
+obj/
