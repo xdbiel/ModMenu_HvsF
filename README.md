@@ -9,8 +9,13 @@ This project documents the process of **reverse engineering** and the subsequent
 The main goal was to identify and manipulate the memory address responsible for the player's ammunition counter. This was achieved by employing scanning techniques to locate a **static pointer** through repeated analysis of a **"volatile" base pointer** (also known as a *dynamic* or *floating address*).
 
 ---
+
+
 <img width="1362" height="530" alt="image" src="https://github.com/user-attachments/assets/5f38d42b-7bb2-4cfc-b397-5a103f76054f" />
-<img width="1546" height="997" alt="config" src="https://github.com/user-attachments/assets/93922929-2eb1-4687-8e29-fd6eb0538875" />
+
+
+
+
 
 ### 🧠 Reverse Engineering Methodology
 
@@ -23,7 +28,7 @@ Identifying the static memory address was a multi-step process involving continu
 ---
 
 ### 💻 Interface and Feature Development
-
+<img width="1546" height="997" alt="config" src="https://github.com/user-attachments/assets/93922929-2eb1-4687-8e29-fd6eb0538875" />
 With the ammunition pointer successfully identified, the development of the Graphical User Interface (GUI) and the modification logic began.
 
 #### **Technologies Used:**
@@ -34,7 +39,7 @@ With the ammunition pointer successfully identified, the development of the Grap
 #### **Current Feature:**
 
 * **Infinite Ammunition:** The currently implemented feature continuously reads and writes to (or intercepts the decrement of) the static address found, ensuring the ammunition value remains maximum or prevents its depletion.
-
+![Adobe Express - Untitled (2)](https://github.com/user-attachments/assets/86651872-ab4b-418a-9143-2b17942b908e)
 #### **Next Steps (Roadmap):**
 
 The immediate focus is the completion of the **DLL Injector** to simplify the application of the *framework* to the target game. Subsequently, development will focus on adding new functionalities, such as:
