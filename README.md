@@ -10,6 +10,7 @@ The main goal was to identify and manipulate the memory address responsible for 
 
 ---
 <img width="1362" height="530" alt="image" src="https://github.com/user-attachments/assets/5f38d42b-7bb2-4cfc-b397-5a103f76054f" />
+<img width="1546" height="997" alt="config" src="https://github.com/user-attachments/assets/93922929-2eb1-4687-8e29-fd6eb0538875" />
 
 ### 🧠 Reverse Engineering Methodology
 
